@@ -12,5 +12,5 @@ Repositório para conclusão do desafio proposto.
 
 #### Recomendo fazer um fork para conseguir clonar
 
-<p>Após clonar o repositorio abra-o com o vscode e seguida instale o cypress, inicie com o comando ´Npx cypress open´. 
-Selecione a suite de teste que está separada testes com a tela home e uma suite de testes com a tela de cadastro.<p>
+<p>Após clonar o repositorio abra-o com o vscode e seguida instale o cypress, inicie com o comando 'Npx cypress open'. 
+Selecione a suite de testes que está separada por tela home e uma suite de testes com a tela de cadastro.<p>
