@@ -5,6 +5,8 @@ Repositório para conclusão do desafio proposto.
 
 **Pré-requisitos**:
 
+>Tenha pré-instalado para execução do projeto
+
 1. [node](https://nodejs.org/en/)
 2. [cypress](https://www.cypress.io/)
 3. [Vscode](https://code.visualstudio.com/)
@@ -12,5 +14,17 @@ Repositório para conclusão do desafio proposto.
 
 #### Recomendo fazer um fork para conseguir clonar
 
-<p>Após clonar o repositorio abra-o com o vscode e seguida, inicie o cypress com o comando 'Npx cypress open'. 
-Selecione a suite de testes que está separada por tela home e uma suite de testes da tela de cadastro.<p>
+>Abordado dois cenários de Teste
+
+1. Acessar Home Com sucesso
+2. Realizar Cadastro com sucesso
+
+
+> Após clonar o repositorio abra-o com o vscode e seguida, inicie o cypress com o comando 
+`npm run cy:open - Interativo`
+`npm run teste - Handles` 
+
+> Após executar o projeto um reporter é gerado para visualizar 
+
+`C:\**\Buger-Eats\mochawesome-report/mochawesome.html`
+
