@@ -25,7 +25,7 @@ Repositório para conclusão do desafio proposto.
 `npm run cy:open - Interativo`
 `npm run teste - Handles` 
 
-> Após executar o projeto um reporter é gerado para visualizar 
+> Após executar o projeto um reporter é gerado para visualizar:
 
 `C:\**\Buger-Eats\mochawesome-report/mochawesome.html`
 
